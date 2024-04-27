@@ -1,0 +1,7 @@
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Idades\Exercicio - Idades\bin\Debug\Exercicio - Idades.exe.config
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Idades\Exercicio - Idades\bin\Debug\Exercicio - Idades.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Idades\Exercicio - Idades\bin\Debug\Exercicio - Idades.pdb
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Idades\Exercicio - Idades\obj\Debug\Exercicio - Idades.csproj.AssemblyReference.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Idades\Exercicio - Idades\obj\Debug\Exercicio - Idades.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Idades\Exercicio - Idades\obj\Debug\Exercicio - Idades.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Idades\Exercicio - Idades\obj\Debug\Exercicio - Idades.pdb
